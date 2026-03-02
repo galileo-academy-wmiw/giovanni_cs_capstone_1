@@ -1,0 +1,31 @@
+[
+  {
+    "$type": "book",
+    "Title": "eepy eepers",
+    "Id": 0,
+    "PublicationYear": 2025,
+    "Genre": "fiction",
+    "Price": 15,
+    "Type": "Book"
+  },
+  {
+    "$type": "audiobook",
+    "FileSize": 14,
+    "Type": "Audiobook",
+    "Title": "hill on the house",
+    "Id": 0,
+    "PublicationYear": 1982,
+    "Genre": "fiction",
+    "Price": 20
+  },
+  {
+    "$type": "ebook",
+    "FileSize": 14,
+    "Type": "eBook",
+    "Title": "parry hotter and the stone of dumbs",
+    "Id": 2465,
+    "PublicationYear": 1997,
+    "Genre": "fantasy",
+    "Price": 25
+  }
+]

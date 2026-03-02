@@ -1,0 +1,12 @@
+C:\Users\gerke\RiderProjects\bibliotheeksysteem\bin\Debug\net8.0\bookstore.exe
+C:\Users\gerke\RiderProjects\bibliotheeksysteem\bin\Debug\net8.0\bookstore.deps.json
+C:\Users\gerke\RiderProjects\bibliotheeksysteem\bin\Debug\net8.0\bookstore.runtimeconfig.json
+C:\Users\gerke\RiderProjects\bibliotheeksysteem\bin\Debug\net8.0\bookstore.dll
+C:\Users\gerke\RiderProjects\bibliotheeksysteem\bin\Debug\net8.0\bookstore.pdb
+C:\Users\gerke\RiderProjects\bibliotheeksysteem\obj\Debug\net8.0\bookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerke\RiderProjects\bibliotheeksysteem\obj\Debug\net8.0\bookstore.csproj.CoreCompileInputs.cache
+C:\Users\gerke\RiderProjects\bibliotheeksysteem\obj\Debug\net8.0\bookstore.dll
+C:\Users\gerke\RiderProjects\bibliotheeksysteem\obj\Debug\net8.0\refint\bookstore.dll
+C:\Users\gerke\RiderProjects\bibliotheeksysteem\obj\Debug\net8.0\bookstore.pdb
+C:\Users\gerke\RiderProjects\bibliotheeksysteem\obj\Debug\net8.0\bookstore.genruntimeconfig.cache
+C:\Users\gerke\RiderProjects\bibliotheeksysteem\obj\Debug\net8.0\ref\bookstore.dll

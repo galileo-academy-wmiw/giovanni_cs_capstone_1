@@ -1,0 +1,12 @@
+C:\Users\GiovanniErkelens\Desktop\bibliotheeksysteem\bibliotheeksysteem\bin\Debug\net8.0\bibliotheeksysteem.exe
+C:\Users\GiovanniErkelens\Desktop\bibliotheeksysteem\bibliotheeksysteem\bin\Debug\net8.0\bibliotheeksysteem.deps.json
+C:\Users\GiovanniErkelens\Desktop\bibliotheeksysteem\bibliotheeksysteem\bin\Debug\net8.0\bibliotheeksysteem.runtimeconfig.json
+C:\Users\GiovanniErkelens\Desktop\bibliotheeksysteem\bibliotheeksysteem\bin\Debug\net8.0\bibliotheeksysteem.dll
+C:\Users\GiovanniErkelens\Desktop\bibliotheeksysteem\bibliotheeksysteem\bin\Debug\net8.0\bibliotheeksysteem.pdb
+C:\Users\GiovanniErkelens\Desktop\bibliotheeksysteem\bibliotheeksysteem\obj\Debug\net8.0\bibliotheeksysteem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GiovanniErkelens\Desktop\bibliotheeksysteem\bibliotheeksysteem\obj\Debug\net8.0\bibliotheeksysteem.csproj.CoreCompileInputs.cache
+C:\Users\GiovanniErkelens\Desktop\bibliotheeksysteem\bibliotheeksysteem\obj\Debug\net8.0\bibliotheeksysteem.dll
+C:\Users\GiovanniErkelens\Desktop\bibliotheeksysteem\bibliotheeksysteem\obj\Debug\net8.0\refint\bibliotheeksysteem.dll
+C:\Users\GiovanniErkelens\Desktop\bibliotheeksysteem\bibliotheeksysteem\obj\Debug\net8.0\bibliotheeksysteem.pdb
+C:\Users\GiovanniErkelens\Desktop\bibliotheeksysteem\bibliotheeksysteem\obj\Debug\net8.0\bibliotheeksysteem.genruntimeconfig.cache
+C:\Users\GiovanniErkelens\Desktop\bibliotheeksysteem\bibliotheeksysteem\obj\Debug\net8.0\ref\bibliotheeksysteem.dll
